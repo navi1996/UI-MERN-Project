@@ -1,0 +1,236 @@
+Tue Apr 02 2019 11:33:34 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:34:16 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:34:44 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:36:43 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:38:02 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:39:13 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:40:09 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:41:38 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:46:51 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:49:01 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:49:37 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:50:11 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:52:28 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:55:11 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:56:04 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:57:30 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:00:14 GMT+0530 (India Standard Time) - Error: Customer not registered. Register to proceed
+    at db.checkCustomer.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:44:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:00:58 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:01:29 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:01:42 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:01:51 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-103 is cancelled!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:02:05 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:05:11 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:05:40 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:07:29 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:08:00 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:08:17 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:12:00 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:12:21 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:14:19 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:14:29 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 16:07:05 GMT+0530 (India Standard Time) - CastError: Cast to number failed for value "NaN" at path "availableSeats"
+    at new CastError (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\error\cast.js:29:11)
+    at SchemaNumber.cast (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:311:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:849:12)
+    at SchemaNumber.SchemaType._castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1252:15)
+    at SchemaNumber.castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:363:14)
+    at SchemaNumber.SchemaType.castForQueryWrapper (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1221:15)
+    at castUpdateVal (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:393:21)
+    at walkUpdatePath (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:261:22)
+    at castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:79:18)
+    at model.Query._castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4183:10)
+    at castDoc (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4211:18)
+    at model.Query._updateThunk (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3480:17)
+    at model.Query.<anonymous> (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3563:23)
+    at model.Query._wrappedThunk [as _updateOne] (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at process.nextTick (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\kareem\index.js:369:33)
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 16:25:58 GMT+0530 (India Standard Time) - CastError: Cast to number failed for value "NaN" at path "availableSeats"
+    at new CastError (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\error\cast.js:29:11)
+    at SchemaNumber.cast (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:311:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:849:12)
+    at SchemaNumber.SchemaType._castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1252:15)
+    at SchemaNumber.castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:363:14)
+    at SchemaNumber.SchemaType.castForQueryWrapper (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1221:15)
+    at castUpdateVal (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:393:21)
+    at walkUpdatePath (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:261:22)
+    at castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:79:18)
+    at model.Query._castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4183:10)
+    at castDoc (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4211:18)
+    at model.Query._updateThunk (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3480:17)
+    at model.Query.<anonymous> (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3563:23)
+    at model.Query._wrappedThunk [as _updateOne] (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at process.nextTick (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\kareem\index.js:369:33)
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 16:27:35 GMT+0530 (India Standard Time) - CastError: Cast to number failed for value "NaN" at path "availableSeats"
+    at new CastError (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\error\cast.js:29:11)
+    at SchemaNumber.cast (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:311:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:849:12)
+    at SchemaNumber.SchemaType._castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1252:15)
+    at SchemaNumber.castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:363:14)
+    at SchemaNumber.SchemaType.castForQueryWrapper (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1221:15)
+    at castUpdateVal (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:393:21)
+    at walkUpdatePath (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:261:22)
+    at castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:79:18)
+    at model.Query._castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4183:10)
+    at castDoc (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4211:18)
+    at model.Query._updateThunk (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3480:17)
+    at model.Query.<anonymous> (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3563:23)
+    at model.Query._wrappedThunk [as _updateOne] (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at process.nextTick (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\kareem\index.js:369:33)
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 16:28:22 GMT+0530 (India Standard Time) - CastError: Cast to number failed for value "NaN" at path "availableSeats"
+    at new CastError (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\error\cast.js:29:11)
+    at SchemaNumber.cast (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:311:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:849:12)
+    at SchemaNumber.SchemaType._castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1252:15)
+    at SchemaNumber.castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:363:14)
+    at SchemaNumber.SchemaType.castForQueryWrapper (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1221:15)
+    at castUpdateVal (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:393:21)
+    at walkUpdatePath (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:261:22)
+    at castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:79:18)
+    at model.Query._castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4183:10)
+    at castDoc (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4211:18)
+    at model.Query._updateThunk (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3480:17)
+    at model.Query.<anonymous> (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3563:23)
+    at model.Query._wrappedThunk [as _updateOne] (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at process.nextTick (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\kareem\index.js:369:33)
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 16:30:38 GMT+0530 (India Standard Time) - CastError: Cast to number failed for value "NaN" at path "availableSeats"
+    at new CastError (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\error\cast.js:29:11)
+    at SchemaNumber.cast (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:311:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:849:12)
+    at SchemaNumber.SchemaType._castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1252:15)
+    at SchemaNumber.castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:363:14)
+    at SchemaNumber.SchemaType.castForQueryWrapper (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1221:15)
+    at castUpdateVal (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:393:21)
+    at walkUpdatePath (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:261:22)
+    at castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:79:18)
+    at model.Query._castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4183:10)
+    at castDoc (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4211:18)
+    at model.Query._updateThunk (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3480:17)
+    at model.Query.<anonymous> (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3563:23)
+    at model.Query._wrappedThunk [as _updateOne] (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at process.nextTick (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\kareem\index.js:369:33)
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 16:52:04 GMT+0530 (India Standard Time) - CastError: Cast to number failed for value "NaN" at path "availableSeats"
+    at new CastError (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\error\cast.js:29:11)
+    at SchemaNumber.cast (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:311:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:849:12)
+    at SchemaNumber.SchemaType._castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1252:15)
+    at SchemaNumber.castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:363:14)
+    at SchemaNumber.SchemaType.castForQueryWrapper (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1221:15)
+    at castUpdateVal (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:393:21)
+    at walkUpdatePath (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:261:22)
+    at castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:79:18)
+    at model.Query._castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4183:10)
+    at castDoc (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4211:18)
+    at model.Query._updateThunk (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3480:17)
+    at model.Query.<anonymous> (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3563:23)
+    at model.Query._wrappedThunk [as _updateOne] (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at process.nextTick (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\kareem\index.js:369:33)
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 16:52:18 GMT+0530 (India Standard Time) - CastError: Cast to number failed for value "NaN" at path "availableSeats"
+    at new CastError (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\error\cast.js:29:11)
+    at SchemaNumber.cast (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:311:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:849:12)
+    at SchemaNumber.SchemaType._castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1252:15)
+    at SchemaNumber.castForQuery (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:363:14)
+    at SchemaNumber.SchemaType.castForQueryWrapper (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1221:15)
+    at castUpdateVal (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:393:21)
+    at walkUpdatePath (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:261:22)
+    at castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\castUpdate.js:79:18)
+    at model.Query._castUpdate (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4183:10)
+    at castDoc (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4211:18)
+    at model.Query._updateThunk (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3480:17)
+    at model.Query.<anonymous> (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:3563:23)
+    at model.Query._wrappedThunk [as _updateOne] (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at process.nextTick (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\node_modules\kareem\index.js:369:33)
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 17:23:13 GMT+0530 (India Standard Time) - Error: Flight is already Full. Can't Book more tickets
+    at db.checkBooking.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:152:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 17:23:21 GMT+0530 (India Standard Time) - Error: Flight is already Full. Can't Book more tickets
+    at db.checkBooking.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:152:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 17:23:36 GMT+0530 (India Standard Time) - Error: Flight is already Full. Can't Book more tickets
+    at db.checkBooking.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:152:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 17:23:42 GMT+0530 (India Standard Time) - Error: Flight is already Full. Can't Book more tickets
+    at db.checkBooking.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:152:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 17:23:54 GMT+0530 (India Standard Time) - Error: Flight is already Full. Can't Book more tickets
+    at db.checkBooking.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:152:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 17:59:22 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 18:59:13 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 18:59:19 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.1200 to continue booking
+    at db.checkAvailability.then (C:\Users\vaibhav25.TRN\Desktop\Integrated_Assignment_React\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
