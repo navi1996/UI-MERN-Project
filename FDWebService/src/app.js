@@ -1,21 +1,15 @@
-const express = require('express');
-const bodyParser = require('body-parser');
-const router = require('./routes/routing');
-const myErrorLogger = require('./utilities/errorlogger');
-const myRequestLogger = require('./utilities/requestlogger');
-const cors = require("cors")
-const app = express();
+var express = require('express');
+var bodyParser = require('body-parser');
+var router = require('./routes/routing');
+var errorLogger = require('./utilities/errorLogger');
+var requestLogger = require('./utilities/requestLogger');
+var app = express();
 
-app.use(cors())
 app.use(bodyParser.json());
-
-app.use(myRequestLogger);
-app.use('/', router);
-app.use(myErrorLogger);
-
-
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(requestLogger);
+app.use('/',router);
+app.use(errorLogger);
 app.listen(1050);
-console.log("Server listening in port 1050");
 
-
-module.exports = app;
+console.log("app listening at 1050");
