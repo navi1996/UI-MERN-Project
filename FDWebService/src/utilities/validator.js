@@ -1,21 +1,22 @@
-let Validator = {};
+var validator = {};
 
-Validator.validateFlightId = function (flightId) {
-    let pattern = new RegExp("^IND-[1-9][0-9]{2}$");
-    if (flightId.length != 7 && !(pattern.test(flightId))) {
-        let err = new Error("Error in flight Id");
-        err.status = 406
+//validate username and email for registration
+validator.validateRegistration = (user) => {
+    const username = user.username;
+    const email = user.email;
+
+    if (!username.match(/^[a-zA-Z0-9].*[a-zA-Z0-9]{5,}$/)) {
+        const err = new Error('Enter a valid username');
+        err.status = 400;
         throw err;
     }
-}
 
-// structural test is written only for validateBookingId
-Validator.validateBookingId = function (bookingId) {
-    if (new String(bookingId).length != 4) {
-        let err = new Error("Error in booking Id");
-        err.status = 406;
+    if (!email.match(/^[a-zA-Z].*@{1}[a-zA-Z]+\.{1}com$/)) {
+        const err = new Error('Enter a valid email');
+        err.status = 400;
         throw err;
     }
-}
 
-module.exports = Validator;
+}
+//validator.validateRegistration({username:'navraj',email:'navrajskkaler@yahoo.com'});
+module.exports = validator;
