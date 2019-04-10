@@ -1,22 +1,18 @@
 {
-  "name": "flightbookingws",
-  "version": "0.0.0",
-  "private": true,
+  "name": "eccomerceServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "mocha test --reporter mocha-spec-json-output-reporter --reporter-options fileName=result.json --timeout 4000 --exit"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "chai": "^4.2.0",
-    "child-process-promise": "^2.2.1",
-    "cors": "^2.8.5",
     "express": "^4.16.4",
-    "fs-extra": "^7.0.1",
-    "mocha": "^5.2.0",
-    "mocha-spec-json-output-reporter": "^1.1.6",
-    "mongoose": "^5.4.1",
-    "request": "^2.88.0",
-    "sinon": "^7.2.2",
-    "supertest": "^3.3.0"
+    "mongodb": "^2.2.33",
+    "mongoose": "^5.4.22"
   }
 }
